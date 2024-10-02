@@ -1,2 +1,1 @@
-# git-pulling-practice
-# King loves JavaScript
+# King loves programming and technology overall
